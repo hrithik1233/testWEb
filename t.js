@@ -20,11 +20,7 @@ window.addEventListener("load",()=>{
         mint=0
         secd=0
        }
-       if(hour==12){
      
-        mint=0
-        secd=0
-       }
  
        if(hour<10){
         h='0'+hour;
