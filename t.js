@@ -21,7 +21,7 @@ window.addEventListener("load",()=>{
         secd=0
        }
        if(hour==12){
-        hour=1
+     
         mint=0
         secd=0
        }
